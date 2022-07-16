@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "my-site/_posts/2022-07-16-welcome-to-jekyll.markdown"
+        }
+    ]
+}
