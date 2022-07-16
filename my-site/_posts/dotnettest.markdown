@@ -8,4 +8,9 @@ This is an article about stuff.
 
 ```csharp
 var test = "test";
+if(test)
+{
+  Console.WriteLine("Ouch!");
+}
+return true;
 ```
