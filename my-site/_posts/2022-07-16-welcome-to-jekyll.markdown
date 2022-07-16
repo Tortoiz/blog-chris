@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ".NEt Article"
+title:  ".NET Article"
 date:   2022-07-16 13:04:46 +1000
-categories: .NET
+categories: dotnet
 ---
 This is an article about stuff. 
 
