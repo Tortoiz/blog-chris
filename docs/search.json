@@ -4,7 +4,7 @@
       "title"    : "The Best Moments in Venice",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/the-best-moments-in-venice",
+      "url"      : "/blog/the-best-moments-in-venice",
       "date"     : "2021-09-16 00:37:13 +1000",
       "desc"     : "The Best Moments in Venice"
     } ,
@@ -13,7 +13,7 @@
       "title"    : "Ligula tristique quis risus eget urna mollis ornare porttitor",
       "category" : "",
       "tags"     : "technology, education",
-      "url"      : "blog/wedding-with-fashion",
+      "url"      : "/blog/wedding-with-fashion",
       "date"     : "2020-10-09 01:37:13 +1100",
       "desc"     : "Ligula tristique quis risus eget urna mollis ornare porttitor"
     } ,
@@ -22,7 +22,7 @@
       "title"    : "Nullam id dolor elit id nibh pharetra augue venenatis",
       "category" : "",
       "tags"     : "technology, education",
-      "url"      : "blog/couples-and-danching",
+      "url"      : "/blog/couples-and-danching",
       "date"     : "2020-10-08 01:37:13 +1100",
       "desc"     : "Nullam id dolor elit id nibh pharetra augue venenatis"
     } ,
@@ -31,7 +31,7 @@
       "title"    : "Ultricies fusce porta elit pharetra augue faucibus",
       "category" : "",
       "tags"     : "technology, education",
-      "url"      : "blog/engagement-our-statement",
+      "url"      : "/blog/engagement-our-statement",
       "date"     : "2020-10-08 01:37:13 +1100",
       "desc"     : "Ultricies fusce porta elit pharetra augue faucibus"
     } ,
@@ -40,7 +40,7 @@
       "title"    : "Maecenas sed diam eget risus varius blandit sit amet non",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/maecenas-sed-diam",
+      "url"      : "/blog/maecenas-sed-diam",
       "date"     : "2020-10-07 19:05:11 +1100",
       "desc"     : "Maecenas sed diam eget risus varius blandit sit amet non"
     } ,
@@ -49,7 +49,7 @@
       "title"    : "Ligula tristique quis risus eget urna mollis ornare porttitor",
       "category" : "",
       "tags"     : "technology, education",
-      "url"      : "blog/ligula-tristique-quis",
+      "url"      : "/blog/ligula-tristique-quis",
       "date"     : "2020-10-06 01:37:13 +1100",
       "desc"     : "Ligula tristique quis risus eget urna mollis ornare porttitor"
     } ,
@@ -58,7 +58,7 @@
       "title"    : "Nullam id dolor elit id nibh pharetra augue venenatis",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/nullam-id-dolor-elit-id-nibh",
+      "url"      : "/blog/nullam-id-dolor-elit-id-nibh",
       "date"     : "2020-10-05 01:37:13 +1100",
       "desc"     : "Nullam id dolor elit id nibh pharetra augue venenatis"
     } ,
@@ -67,7 +67,7 @@
       "title"    : "Nullam id dolor elit id nibh pharetra augue venenatis",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/ultricies-fusce-porta-elit-pharetra",
+      "url"      : "/blog/ultricies-fusce-porta-elit-pharetra",
       "date"     : "2020-10-04 00:37:13 +1000",
       "desc"     : "Nullam id dolor elit id nibh pharetra augue venenatis"
     } ,
@@ -76,7 +76,7 @@
       "title"    : "Morbi leo risus porta eget metus est non commodolacus",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/morbi-leo-risus-porta-eget-metus",
+      "url"      : "/blog/morbi-leo-risus-porta-eget-metus",
       "date"     : "2020-10-04 00:37:13 +1000",
       "desc"     : "Morbi leo risus porta eget metus est non commodolacus"
     } ,
@@ -85,7 +85,7 @@
       "title"    : "Mollis adipiscing lorem quis mollis eget lacinia faucibus",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/mollis-adipiscing-lorem-quis",
+      "url"      : "/blog/mollis-adipiscing-lorem-quis",
       "date"     : "2020-10-03 00:37:13 +1000",
       "desc"     : "Mollis adipiscing lorem quis mollis eget lacinia faucibus"
     } ,
@@ -94,7 +94,7 @@
       "title"    : "The Natural Places in Brazil",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/the-natural-places-in-brazil",
+      "url"      : "/blog/the-natural-places-in-brazil",
       "date"     : "2020-09-07 00:37:13 +1000",
       "desc"     : "The Natural Places in Brazil"
     } ,
@@ -103,7 +103,7 @@
       "title"    : "The Biggest Train Station in Europe",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/24-the-biggest-train-station-in-europe",
+      "url"      : "/blog/24-the-biggest-train-station-in-europe",
       "date"     : "2020-09-07 00:37:13 +1000",
       "desc"     : "The Biggest Train Station in Europe"
     } ,
@@ -112,7 +112,7 @@
       "title"    : "24 Hours in the Village of Valencia",
       "category" : "",
       "tags"     : "Shopping",
-      "url"      : "blog/24-hours-in-the-village-of-valencia",
+      "url"      : "/blog/24-hours-in-the-village-of-valencia",
       "date"     : "2020-09-06 00:37:13 +1000",
       "desc"     : "24 Hours in the Village of Valencia"
     } ,
@@ -121,7 +121,7 @@
       "title"    : "My Love Affair with Cappadocia",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/my-love-affair-with-cappadocia",
+      "url"      : "/blog/my-love-affair-with-cappadocia",
       "date"     : "2020-09-05 00:37:13 +1000",
       "desc"     : "My Love Affair with Cappadocia"
     } ,
@@ -130,7 +130,7 @@
       "title"    : "A Dreamy Roadtrip in Australia",
       "category" : "",
       "tags"     : "ecommerce",
-      "url"      : "blog/a-dreamy-roadtrip-in-australia",
+      "url"      : "/blog/a-dreamy-roadtrip-in-australia",
       "date"     : "2020-09-04 00:37:13 +1000",
       "desc"     : "A Dreamy Roadtrip in Australia"
     } ,
@@ -139,7 +139,7 @@
       "title"    : "10 Great Places in Belgium",
       "category" : "",
       "tags"     : "",
-      "url"      : "blog/10-great-places-in-belgium",
+      "url"      : "/blog/10-great-places-in-belgium",
       "date"     : "2020-09-03 00:37:13 +1000",
       "desc"     : "10 Great Places in Belgium"
     } 
